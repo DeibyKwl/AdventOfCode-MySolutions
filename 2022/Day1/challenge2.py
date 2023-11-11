@@ -1,7 +1,6 @@
 # Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?
 
 cal_counter = 0
-max_cal_counter = 0
 top_three = [0,0,0]
 
 with open('input.txt', 'r') as f:
