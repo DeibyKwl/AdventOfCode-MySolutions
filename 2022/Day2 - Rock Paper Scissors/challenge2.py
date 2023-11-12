@@ -1,4 +1,4 @@
-# What would your total score be if everything goes exactly according to your strategy guide?
+# Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
 # A,B,C: Rock, Paper, Scissor
 # X,Y,Z: lose, draw, win
 
