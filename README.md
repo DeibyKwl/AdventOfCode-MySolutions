@@ -1,4 +1,4 @@
-# Advent Of Code
+# Advent Of Code - My solutions
 
 Doing some coding challenges for fun with Python. My goal is to finish each challenge from each year available.
 
