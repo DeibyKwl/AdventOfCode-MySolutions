@@ -1,4 +1,4 @@
-#In how many assignment pairs do the ranges overlap?
+# In how many assignment pairs do the ranges overlap?
 
 with open('input.txt', 'r') as f:
     text = f.readlines()
