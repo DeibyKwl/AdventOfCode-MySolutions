@@ -7,7 +7,8 @@ horizontal = 0
 vertical = 0
 
 # Start by counting the starting house
-house = set((0,0))
+house = set()
+house.add((0,0))
 
 for character in text[0]:
 
