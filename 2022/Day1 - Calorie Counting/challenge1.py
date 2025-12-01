@@ -7,7 +7,7 @@ with open('input.txt', 'r') as f:
     text = f.readlines()
 
     for line in text:
-        #Reset values and find max calory value
+        # Reset values and find max calory value
         if line == '\n':
             if cal_counter >= max_cal_counter:
                 max_cal_counter = cal_counter
